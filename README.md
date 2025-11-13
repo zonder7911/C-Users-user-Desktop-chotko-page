@@ -1,5 +1,3 @@
-![logo](https://github.com/user-attachments/assets/da4ede6a-86c1-4666-8016-4f269e9f0b0b)
-[index.html](https://github.com/user-attachments/files/23527090/index.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
